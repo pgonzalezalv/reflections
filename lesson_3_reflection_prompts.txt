@@ -25,7 +25,13 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    You can still work on the project locally without being online. You still
+    have the location of the last remote commit you pulled, so when you are
+    back online, you can fetch the changes in the remote without altering the
+    offline work you did. Eventually, you can do a git merge with the updated
+    copy of the remote and the work you did.
+    Note : in this case doing git fetch and then git merge is equivalent to
+    just doing git pull.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
