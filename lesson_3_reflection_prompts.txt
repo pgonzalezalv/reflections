@@ -36,7 +36,11 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would use Google Drive or Dropbox's simplified version control. It's
+    quite easy to synchronize since you can install an app that does it
+    automatically. The downside is that the version control system is not easy
+    to use. You have to do it manually on the website to be sure and you can
+    not give a small description to the version.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
