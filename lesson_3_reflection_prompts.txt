@@ -45,4 +45,12 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    I would create a new branch if I am working on a new feature and I don't
+    want to interfere with the running version of my program. Or I would like
+    to work offline for some time. The upside of making changes to different
+    branches is that the different versions of the program are better
+    organized, so I might have a better overview of everything (nonlinear
+    commit history). The upside of making changes  only in master is that the
+    overall structure is easier to work on, you need less organization since
+    e.g. you do not need to think about why and what to put in a new branch
+    (linear commit history).
